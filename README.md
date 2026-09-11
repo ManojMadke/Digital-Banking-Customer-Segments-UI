@@ -2,7 +2,7 @@
 
 A modern and responsive **React + Vite UI project** designed to present different digital banking customer segments through an interactive card-based layout.
 
-The project focuses on clean UI design, reusable React components, responsive structure, and Tailwind CSS styling.
+The project focuses on clean UI design, reusable React components, responsive structure, and Tailwind css styling.
 
 ## 🚀 Live Demo
 
