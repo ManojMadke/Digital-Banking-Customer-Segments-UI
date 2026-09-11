@@ -6,19 +6,21 @@ The project focuses on clean UI design, reusable React components, responsive st
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](https://YOUR-LIVE-DEMO-LINK.vercel.app/)**
-
-> Replace the link above with your actual Vercel/Netlify live URL.
+🔗 Link:- https://digitalbankingcustomersegmentsui.vercel.app/
 
 ## 📸 Screenshot
 
-Add your project screenshot to the repository as:
+o Screenshot 1:
 
-`public/screenshot.png`
+![Digital Banking Customer Segments UI](public/Desktop-1.png)
 
-Then replace the placeholder below if required:
+o Screenshot 2:
 
-![Digital Banking Customer Segments UI](public/screenshot.png)
+![Digital Banking Customer Segments UI](public/Desktop-2.png)
+
+o Screenshot 3:
+
+![Digital Banking Customer Segments UI](public/Desktop-3.png)
 
 ## ✨ Features
 
@@ -47,9 +49,11 @@ Then replace the placeholder below if required:
 ## 📂 Project Structure
 
 ```text
-7-ui-project/
+Digital-Banking-Customer-Segments-UI/
 ├── public/
-│   └── screenshot.png
+│   ├── Desktop-1.png
+│   ├── Desktop-2.png
+│   └── Desktop-3.png
 ├── src/
 │   ├── assets/
 │   │   ├── photo-1.avif
@@ -107,10 +111,10 @@ The UI presents different banking customer segments, including:
 
 **Manoj Madke**
 
-CSE (AI & ML) Graduate | Aspiring Frontend / Python Full Stack Developer
+CSE (AI & ML) Graduate | Python Full Stack Developer
 
 - GitHub: https://github.com/ManojMadke
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/manoj-madke
 
 ## 📄 License
 
